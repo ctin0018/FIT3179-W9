@@ -52,7 +52,7 @@
             "scale": {
               "type": "linear", 
               "domain": [100, 0],
-              "scheme": "viridis"
+              "scheme": "cividis"
             },
             "legend": {
                 "orient": "bottom",
